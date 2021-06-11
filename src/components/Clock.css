@@ -1,0 +1,9 @@
+/*
+* Set a monospaced, pixelated font
+*/
+.Clock {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 4rem;
+    color: rgb(0, 255, 0);
+    user-select: none;
+}
